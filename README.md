@@ -1,5 +1,5 @@
 ### Hi, I'm Hamaad
-![banner](https://user-images.githubusercontent.com/18343242/167202505-6173e0ae-3d72-44eb-bdb7-a00fed5a6e02.png)
+![banner](https://user-images.githubusercontent.com/18343242/167206428-60bcf64b-d2b1-451c-8ba4-7a2b94c0f894.png)
 
 <!--
 **Hamaad102/Hamaad102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
