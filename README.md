@@ -1,5 +1,6 @@
 # Hi, I'm Hamaad
 ![banner](https://user-images.githubusercontent.com/18343242/167206428-60bcf64b-d2b1-451c-8ba4-7a2b94c0f894.png)
+
 I'm a Full Stack Developer based out of Toronto. 
 
 I enjoy creating visually stunning content for the web.
