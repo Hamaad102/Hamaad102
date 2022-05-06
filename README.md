@@ -10,3 +10,6 @@ I'm a Full Stack Developer who is passionate about creating visually stunning co
 
 ### Databases:
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>]() [<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>]() 
+
+### Currently learning
+[<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>]() 
